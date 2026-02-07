@@ -71,3 +71,13 @@ AWS, Azure, PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery
 - SQL50: Completed challenge set  
 
 ---
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:swathigunti1405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/swathigunti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+</p>
