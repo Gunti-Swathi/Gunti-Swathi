@@ -1,81 +1,73 @@
-# SWATHI GUNTI
+# Swathi Gunti
 
-Graduate Computer Science professional with strong foundations in data science, machine learning, data engineering, and full-stack software development. Experienced in building scalable, end-to-end systems that convert raw data into reliable analytics, intelligent models, and production-grade applications.
-
-Focused on clean system design, reproducibility, and engineering practices that support long-term maintainability and real-world deployment.
+Graduate Computer Science professional with experience in building data-driven systems, machine learning solutions, and production-ready software. Interested in applying structured engineering and intelligent modeling techniques to solve real-world problems at scale.
 
 ---
 
-## Technical Expertise
+## Projects
 
-### Data Science and Analytics
-- Exploratory data analysis, statistical inference, and hypothesis testing  
-- Feature engineering and signal extraction from structured and semi-structured data  
-- Probability, statistics, and experimental design including A/B testing  
-- Time series analysis and forecasting  
-- Data validation, monitoring, and quality assurance  
+### Course Registration and Conflict Resolution System
+- Built a full-stack platform using React, Angular, Node.js, and PostgreSQL to handle concurrent course enrollment  
+- Designed transactional workflows and conflict resolution logic to prevent seat over-allocation and improve system reliability  
 
-**Tools:** Python, SQL, Pandas, NumPy, SciPy, Power BI, Grafana
+### Insurance Claim Risk Prediction and Fraud Analytics
+- Developed machine learning models to identify high-risk insurance claims using structured transactional data  
+- Implemented MLOps workflows including experiment tracking, model versioning, and automated validation  
+- Deployed cloud-based inference pipelines using containerized services and CI/CD for scalable model serving  
 
----
+### Multilingual Image Captioning System
+- Designed a multimodal deep learning framework for generating image captions in Tamil and Telugu  
+- Integrated CNN-based visual encoders with Transformer-based language models to bridge visual and linguistic representations  
 
-### Machine Learning and Artificial Intelligence
-- Supervised and unsupervised learning for large-scale tabular datasets  
-- Deep learning for NLP, computer vision, and multimodal applications  
-- Model evaluation, calibration, and systematic error analysis  
-- Explainable AI using feature attribution and interpretability techniques  
-- Generative AI systems including Retrieval-Augmented Generation pipelines  
-
-**Frameworks:** Scikit-learn, PyTorch, TensorFlow, OpenCV, Hugging Face, LangChain  
-**Methods:** Tree-based models, ensemble learning, transformers, CNNs
+### AI-Powered Assistant and FAQ System
+- Built an LLM-based assistant using a retrieval-augmented generation pipeline to handle large-scale user queries  
+- Indexed authoritative documents and optimized retrieval to reduce response latency and repetitive inquiries  
 
 ---
 
-### Data Engineering
-- Batch and streaming data pipeline design  
-- ETL and ELT workflows with schema enforcement  
-- Distributed data processing and scalable analytics pipelines  
-- Data warehousing and analytical data modeling  
-- Workflow orchestration, scheduling, and observability  
+## Achievements
 
-**Technologies:** Apache Spark, PySpark, Kafka, Airflow, Dagster  
-**Databases:** PostgreSQL, MySQL, Snowflake, BigQuery, Redshift, MongoDB, Redis
+- Authored **6 peer-reviewed research publications**, including work published in **Q1 journals**  
+- Accumulated **55+ academic citations**  
+- Awarded a **merit-based international student scholarship** from the University of Central Florida  
+- Served as a **Student Assistant at UCF**, contributing to academic data management and system support workflows  
 
 ---
 
-### MLOps and Platform Engineering
-- Reproducible ML pipelines and experiment tracking  
-- Model versioning, validation, and controlled deployment strategies  
-- CI/CD automation for data and ML workflows  
-- Containerized and cloud-native application deployment  
+## Technical Skills
 
-**Tools:** Docker, Kubernetes, MLflow, DVC, GitHub Actions, Great Expectations
+### Programming and Software
+Python, SQL, Java, JavaScript, HTML, CSS, REST APIs, Object-Oriented Programming, Data Structures
 
----
+### Machine Learning and Deep Learning
+Machine Learning, Deep Learning, NLP, Computer Vision, Transformers, Multimodal Learning, Generative AI
 
-### Software Engineering
+### Data and ML Engineering
+ETL Pipelines, Data Modeling, Feature Engineering, Apache Spark, PySpark, Kafka
 
-#### Backend Development
-- RESTful API design and service-oriented architectures  
-- ML inference services and data-driven backends  
-- Configuration management, logging, and monitoring  
+### MLOps and Systems
+MLflow, DVC, CI/CD, Docker, Kubernetes, Model Versioning, Monitoring
 
-**Stack:** FastAPI, Flask, Django, Node.js
+### Frameworks and Tools
+FastAPI, Flask, Django, React, Angular, TensorFlow, PyTorch, Scikit-learn
 
-#### Frontend and Visualization
-- Interactive dashboards for analytics and ML monitoring  
-- Data-driven user interfaces and visualization tools  
-
-**Stack:** React, Angular, HTML, CSS, JavaScript, Streamlit
+### Cloud and Databases
+AWS, Azure, PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery
 
 ---
 
-### Cloud and Infrastructure
-- Cloud-based data and ML platforms  
-- Scalable storage and compute architectures  
-- Secure, modular, and cost-aware system design  
+## Certifications
 
-**Platforms:** AWS, Azure, Google Cloud Platform
+- AWS Cloud Foundations  
+- AWS Cloud Architecting  
+- Microsoft Azure Fundamentals  
+- Generative AI and Deep Learning – deeplearning.ai  
 
 ---
 
+## Problem Solving
+
+- LeetCode: Active streak  
+- SQL50: Completed challenge set  
+
+---
