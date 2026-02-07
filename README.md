@@ -73,11 +73,4 @@ AWS, Azure, PostgreSQL, MySQL, MongoDB, Snowflake, BigQuery
 ---
 ## Connect With Me
 
-<p align="center">
-  <a href="mailto:swathigunti1405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/swathigunti/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
-  </a>
-</p>
+<p align="center"> <a href="mailto:swathigunti1405@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"> </a> &nbsp; <a href="https://www.linkedin.com/in/swathigunti/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"> </a> &nbsp; <a href="https://scholar.google.com/citations?user=QORjb1YAAAAJ&hl=en"> <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white"> </a> </p>
