@@ -2,7 +2,7 @@
 
 Data Scientist and Machine Learning Engineer with 3.5+ years of experience building production ML systems and data pipelines. Currently pursuing a Master’s in Computer Science at UCF, with experience in backend APIs, LLM applications, and cloud deployment.
 
-<a href="https://swathi-gunti.netlify.app/">🔗 Portfolio</a>
+<a href="https://swathi-gunti.netlify.app/" target="_blank">🔗 Portfolio</a> 
 
 ---
 
