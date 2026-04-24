@@ -1,6 +1,6 @@
 # Swathi Gunti
 
-I’m a passionate engineer with over 3.5 years of experience building intelligent systems and scalable data solutions, with a strong focus on machine learning, backend development, and cloud-based applications. I enjoy turning complex problems into practical, real-world solutions and working at the intersection of data and engineering to create impactful systems. Currently, I’m pursuing a Master’s in Computer Science at UCF, where I continue to deepen my knowledge of modern software systems and emerging technologies like large language models.
+I’m a Data Science and Data Analytics professional with experience building end-to-end, production-ready AI systems. Skilled in machine learning, NLP, and LLM-based applications, with a strong foundation in data analysis using SQL and Python to generate actionable insights. Experienced in developing scalable data pipelines, APIs, and cloud-based solutions, bridging the gap between analytics and intelligent system design to deliver practical, high-impact outcomes.
 
 
 ---
