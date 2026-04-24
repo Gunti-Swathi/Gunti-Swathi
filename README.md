@@ -7,18 +7,21 @@ I’m a Data Science and Data Analytics professional with experience building en
 
 ## Projects
 
-### Course Registration and Conflict Resolution System
-- Built a full-stack platform using React, Angular, Node.js, and PostgreSQL to handle concurrent course enrollment  
-- Designed transactional workflows and conflict resolution logic to prevent seat over-allocation and improve system reliability  
+### PharmaBot – AI Prescription Analyzer  
+- Built a full-stack AI application using React (frontend) and Node.js (backend) integrated with OCR and LLM pipelines to extract and interpret handwritten medical data  
+- Implemented a RAG-based system with fine-tuned models for drug interaction Q&A, achieving high accuracy with validation and guardrails  
 
-### Insurance Claim Risk Prediction and Fraud Analytics
-- Developed machine learning models to identify high-risk insurance claims using structured transactional data  
-- Implemented MLOps workflows including experiment tracking, model versioning, and automated validation  
-- Deployed cloud-based inference pipelines using containerized services and CI/CD for scalable model serving  
+### Enterprise Document Search and Recommendation System  
+- Developed a scalable full-stack system using React (frontend) and FastAPI (backend), integrating a multi-agent RAG pipeline with LangGraph for document retrieval, summarization, and validation  
+- Improved retrieval quality using multi-query search, reranking, and contextual compression for high-precision, low-latency responses  
 
-### Multilingual Image Captioning System
-- Designed a multimodal deep learning framework for generating image captions in Tamil and Telugu  
-- Integrated CNN-based visual encoders with Transformer-based language models to bridge visual and linguistic representations  
+### Retail Sales Analytics Platform  
+- Designed a Snowflake-based data warehouse processing 5M+ transactions with dbt transformations and dimensional modeling  
+- Applied time-series forecasting and built dashboards to identify trends, optimize inventory, and improve query performance  
+
+### Insurance Claim Risk Prediction and Fraud Analytics  
+- Developed machine learning models (XGBoost, Random Forest, Logistic Regression) to detect high-risk claims on large-scale data  
+- Built end-to-end pipelines with feature engineering, explainability (SHAP), and scalable deployment workflows    
 
 ### AI-Powered Assistant and FAQ System
 - Built an LLM-based assistant using a retrieval-augmented generation pipeline to handle large-scale user queries  
