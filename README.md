@@ -1,6 +1,6 @@
 # Swathi Gunti
 
-I’m a Data Science and Data Analytics professional with experience building end-to-end, production-ready AI systems. Skilled in machine learning, NLP, and LLM-based applications, with a strong foundation in data analysis using SQL and Python to generate actionable insights. Experienced in developing scalable data pipelines, APIs, and cloud-based solutions, bridging the gap between analytics and intelligent system design to deliver practical, high-impact outcomes.
+I am a Computer Science professional with experience in software development, data analytics, machine learning, and AI applications. I build scalable, data-driven solutions using Python, SQL, JavaScript, APIs, and cloud technologies to deliver intelligent systems, actionable insights, and practical business impact.
 
 
 ---
